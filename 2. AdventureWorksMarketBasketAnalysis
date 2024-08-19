@@ -1,0 +1,3 @@
+The above file deals with what product offerings can be given to customers based upon the data.
+The sales data isinitally mapped the product offerings,and following that we can find out using Market Basket Analysis.
+Our main objective is to find out the support,confidence and then lift and following that we can gauge what we can offer to customers based upon their present basket goods to upsell our items and to get a profit.
